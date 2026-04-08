@@ -21,7 +21,7 @@ A simple PHP MySQL CRUD application for managing business listings and submittin
 
 1. Copy the project folder into your web server root, e.g. `C:\xampp\htdocs\nadsoft`
 2. Start Apache and MySQL
-3. Create a database named `business_rating_sys`
+3. Create a database named `business_rating_sys` or you can direct export from the dbfolder
 4. Create the tables below in the database
 
 ### Database schema
