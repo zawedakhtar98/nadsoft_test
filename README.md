@@ -1,4 +1,4 @@
-# Nadsoft Business Rating System
+# Nadsoft Test for Business Rating System
 
 A simple PHP MySQL CRUD application for managing business listings and submitting business ratings via AJAX.
 
